@@ -1,5 +1,7 @@
 <h1>Bash scripts</h1>
 <h2>First bash script: etl.sh</h2>
+<h3>Architecture</h3>
+<img src='https://github.com/user-attachments/assets/8889b96b-57c6-40da-b0ee-130e1c96c0b5'>
 This script downloads some data into the local machine, transform it, and then load the final data into its final destination for further usage.
 <ul>
   <li>Defines DEST_DIR as the base folder to store raw, transformed, and gold data.</li>
